@@ -7,7 +7,7 @@ date: "2024-02-20"
 ## This site portfolio for computer practicum.
 <br>
   
-- [Laboratory Work](/)
+- [Laboratory Work](/portfolio1)
 <br>
   
-- [About me](/about)
+- [About me](/portfolio1/about/)
