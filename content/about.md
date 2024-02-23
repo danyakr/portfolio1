@@ -13,5 +13,5 @@ I'm Krasnikov Daniil a student at the University of Russian State Pedagogical Un
 
 <small>
 
-© 2024 Krasnikov Daniil &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Home page](/home)
+© 2024 Krasnikov Daniil &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Home page](/portfolio1/home)
 </small>
