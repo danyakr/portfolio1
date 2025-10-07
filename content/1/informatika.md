@@ -6,6 +6,8 @@ draft: false
 tags: ["1 курс"]
 ---
 
+---
+
 #### Самостоятельные работы  
 [Введение](https://www.google.com/url?q=https%3A%2F%2F1drv.ms%2Fw%2Fs!Aj9eLzWpyS4ogQ1H863IHKuo1huO%3Fe%3DnSIdOZ&sa=D&sntz=1&usg=AOvVaw3wEqdABXBcJf7_i_ahNHQ8)  
 В файле содержится аннотированный список учебников по Pascal, составлена таблица по госту написания блок-схем и представлены вспомогательные формулы для Pascal.
