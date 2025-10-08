@@ -14,4 +14,8 @@ I'm Krasnikov Daniil a student at the University of Russian State Pedagogical Un
 <small>
 
 © 2024 Krasnikov Daniil &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Home page](/portfolio1/home)
+
+09.03.01 Информатика и вычислительная техника, год приема: 2022  
+Технологии разработки программного обеспечения, срок обучения: 4 года
+
 </small>
