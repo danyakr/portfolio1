@@ -11,37 +11,36 @@ tags: ["1 курс"]
 Вычислительный эксперимент. Исследование видимых траекторий движения планет солнечной системы.
 
 Лабораторная работа.
-ЛР отчет https://www.google.com/url?q=https%3A%2F%2F1drv.ms%2Fw%2Fs!Aj9eLzWpyS4ogTNcf-y0ba9neYNI%3Fe%3De2T6D4&sa=D&sntz=1&usg=AOvVaw1bYAV5IK4UX1rcOLB0BAAp
-ЛР траектория https://www.google.com/url?q=https%3A%2F%2F1drv.ms%2Fx%2Fs!Aj9eLzWpyS4ogTKAxcdwV5Pm97GP%3Fe%3DACvtkc&sa=D&sntz=1&usg=AOvVaw3ud-fljyO1-AO6ezn7Bf4k
-Траектории планет https://www.google.com/url?q=https%3A%2F%2F1drv.ms%2Fw%2Fs!Aj9eLzWpyS4oghN8fVdO064ojKGY%3Fe%3D26XkWi&sa=D&sntz=1&usg=AOvVaw24eo3HpHTGmwr_Olv8uGxS
-
+[ЛР отчет](https://disk.yandex.ru/i/_O6VpLzyjkRszw)
+[ЛР траектория](https://disk.yandex.ru/i/jbKKczPv6JIJew)
+[Траектории планет](https://disk.yandex.ru/i/Erzr8n8slHudSg)
 
 В лабораторной работе представлен отчет по проделанной работе с математической моделью, анализом результатов и выводом, а также построена траектория движения Марса относительно Земли с помощью табличного процессора Excel. А в файле траектории планет находится траектории движения Марса, Венеры, Юпитера относительно Земли, а также Сатурна относительно Меркурия.
 
 Тема 2
 Моделирование движения тела, брошенного под углом к горизонту.
 
-ЛР 2 https://sites.google.com/view/krasnikov-d-ya-portfolio/ит-в-физике/тема-2#BAD_URL
+[ЛР 2](https://disk.yandex.ru/i/aPqiLEZAXHnBgw)
 В этой лабораторной работе выполнено построение траекторий движения тела, брошенного под углом к горизонту. Построены графики при углах 30, 45, 60, 58 градусов. Построен график зависимости дальности полета от угла к горизонту, проанализировано при каком угле дальность будет максимальна.
 
 Тема 4
 Моделирование колебательного контура с источником тока.
 
-ЛР 4 https://www.google.com/url?q=https%3A%2F%2F1drv.ms%2Fx%2Fs!Aj9eLzWpyS4ognniogd8O1cP3gsw%3Fe%3D9jDBp7&sa=D&sntz=1&usg=AOvVaw16rUN8fgnJ2YjgB7-RSdc8
+[ЛР 4](https://disk.yandex.ru/i/RTPGHjj_GZnunw)
 В этой лабораторной работе выполнено построение графика зависимости заряда конденсатора q от времени t (q = q(t)). Построение графика зависимости тока I от времени t (I = I(t)). Построение графика зависимости напряжения U от времени t (U = U(t)
 
 Тема 5
 Механические колебания. Пружинный маятник.
 
-ЛР 5 https://www.google.com/url?q=https%3A%2F%2F1drv.ms%2Fx%2Fs!Aj9eLzWpyS4ognryi7IVxnr3W48e%3Fe%3DafOMLZ&sa=D&sntz=1&usg=AOvVaw3DmavA3TYkM634F0ukES-A
-Отчет ЛР https://www.google.com/url?q=https%3A%2F%2F1drv.ms%2Fw%2Fs!Aj9eLzWpyS4ogntxFlibqxTg2khN%3Fe%3D4pDaez&sa=D&sntz=1&usg=AOvVaw0devgZoPXMr7N5RqnJJ9gK
+[ЛР 5](https://disk.yandex.ru/i/RyOgdqj1VcHK8w)
+[Отчет ЛР](https://disk.yandex.ru/d/2j0VMgfQf930DA)
 
 В этой лабораторной работе выполнено построение графика зависимости смещения x от времени t (x= x(t)). Проанализированы полученные результаты и написано около какого значения x происходят колебания груза. Описаны энергетические превращения, которые происходят в электрической и механической системах при колебаниях.
 
 Тема 6
 Источник постоянного тока.
 
-ЛР 6 https://sites.google.com/view/krasnikov-d-ya-portfolio/ит-в-физике/тема-6#BAD_URL
+ЛР 6
 В этой лабораторной работе найдена зависимость напряжения на нагрузке  U, полной мощности  P,  полезной мощности  Pп и коэффициента полезного действия η от создаваемого источником тока I.
 
 
