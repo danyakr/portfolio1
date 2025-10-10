@@ -10,20 +10,20 @@ tags: ["1 курс"]
 Тема 1
 Виды стандартов. ГОСТы.
 
-ЛР 1 https://www.google.com/url?q=https%3A%2F%2F1drv.ms%2Fw%2Fs!Aj9eLzWpyS4ogXhUQKxWAYLZHraw%3Fe%3DIObOOY&sa=D&sntz=1&usg=AOvVaw3Yl2QmKHSB04D3Tz6m0qMt
+[ЛР 1](https://disk.yandex.ru/i/_orSrF_gAQMd4w)
 В этой лабораторной работе даны основные стандарты и их определения, приведены примеры. Выдержка из ГОСТа по оформлению НИР, а также из ГОСТа по оформлению библиографической ссылки, даны определения внутритекстовой, подстрочной, затекстовой ссылке.
 
 
 Тема 2
 Средства создания нелинейных презентаций.
 
-ЛР 2 https://www.google.com/url?q=https%3A%2F%2F1drv.ms%2Fw%2Fs!Aj9eLzWpyS4ogn11SoA-hulAWQwt%3Fe%3Df7zlQL&sa=D&sntz=1&usg=AOvVaw2bsdnrTn6oEzFo6dbQzqZ9
+[ЛР 2](https://disk.yandex.ru/i/qjwaQPMEXieqTw)
 Создана нелинейная презентация по теме "язык программирования Python" средствами онлайн-ресурса Prezi.
 
 Тема 3
 Пример оформления по ГОСТ.
 
-ЛР 3 https://www.google.com/url?q=https%3A%2F%2F1drv.ms%2Fw%2Fs!Aj9eLzWpyS4ogn_-HU_c4tCC7h0E%3Fe%3DNy1tH2&sa=D&sntz=1&usg=AOvVaw0Bh0oAQcGtPFT_4VQEWAQI
+[ЛР 3](https://disk.yandex.ru/i/PNxpSrJEmJO4GA)
 В этой лабораторной работе выполнено добавление титульной страницы, работа со стилями, добавление автособираемого оглавления, добавление формул с помощью текстового процессора Word.
 
 
