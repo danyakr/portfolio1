@@ -1,7 +1,50 @@
 ---
-title: "Пакеты прикладных программ для статистической обработки и анализа данных"
+title: "Программирование 3 семестр"
 date: 2023-08-10
 publishdate: 2024-06-10
 draft: false
 tags: ["2 курс"]
 ---
+
+---
+
+## Лабораторная работа 1
+* Калькулятор
+[Открыть](https://replit.com/@thebrrr2505/Calculator?v=1)
+* Игра угадай число
+[Открыть](https://replit.com/@thebrrr2505/guess-number?v=1)
+
+## Лабораторная работа 2
+* Работа с множествами
+[Открыть](https://replit.com/@thebrrr2505/labwork2#readme.md)
+
+## Лабораторная работа 3
+Усовершенствование калькулятора
+1. [Часть 1](https://replit.com/@thebrrr2505/Calculator-v2?v=1)
+2. [Часть 2](https://replit.com/@thebrrr2505/Calculator-v3?v=1)
+
+## Лабораторная работа 4
+Алгоритмы на Python и мемоизация
+1. [Открыть](https://replit.com/@thebrrr2505/sumindex?v=1)
+2. [Открыть](https://replit.com/@thebrrr2505/improvedsumindex?v=1)
+3. [Открыть](https://replit.com/@thebrrr2505/allsumindex?v=1)
+4. [Открыть](https://replit.com/@thebrrr2505/memo?v=1)
+
+Использование библиотечный модулей: отправка почты через smtp, запрос погоды, построение графиков с помощью matplotlib
+1. [Открыть](https://replit.com/@thebrrr2505/smtp?v=1)
+2. [Открыть](https://replit.com/@thebrrr2505/weather?v=1)
+3. [Открыть](https://replit.com/@thebrrr2505/graph?v=1)
+
+## Лабораторная работа 5
+Итераторы и генераторы
+1. [Открыть](https://replit.com/@thebrrr2505/11?v=1)
+2. [Открыть](https://replit.com/@thebrrr2505/12?v=1)
+3. [Открыть](https://replit.com/@thebrrr2505/13?v=1)
+4. [Открыть](https://replit.com/@thebrrr2505/14?v=1)
+
+Менеджеры контекста. Работа с MongoDB
+1. [Открыть](https://replit.com/@thebrrr2505/21?v=1)
+2. [Открыть](https://replit.com/@thebrrr2505/22?v=1)
+3. [Открыть](https://replit.com/@thebrrr2505/23?v=1)
+
+
