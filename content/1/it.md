@@ -30,9 +30,9 @@ tags: ["1 курс"]
 Тема 4
 Работа с программами по работе и обработке аудио.
 
-ЛР 4.1 https://www.google.com/url?q=https%3A%2F%2F1drv.ms%2Fw%2Fs!Aj9eLzWpyS4og3_lbqYwFOo7Ypwn%3Fe%3D4s9krP&sa=D&sntz=1&usg=AOvVaw2OEOgWJ5G4rmnDnKz56tNj
-ЛР 4.2 https://www.google.com/url?q=https%3A%2F%2F1drv.ms%2Fu%2Fs!Aj9eLzWpyS4ohBDYLMa7OsPJJ3Xa%3Fe%3Ds5N8L1&sa=D&sntz=1&usg=AOvVaw0s23upLmTC0Gay2aaHBDDy
-Описание проблем https://www.google.com/url?q=https%3A%2F%2F1drv.ms%2Fw%2Fs!Aj9eLzWpyS4ohBGggHnahH3MUfqI%3Fe%3D9akGpu&sa=D&sntz=1&usg=AOvVaw0TKcRJQGbZI6n0i7hhuyGS
+[ЛР 4.1](https://disk.yandex.ru/i/o-KRmJVOab3Q2A)
+[ЛР 4.2](https://www.google.com/url?q=https%3A%2F%2F1drv.ms%2Fu%2Fs!Aj9eLzWpyS4ohBDYLMa7OsPJJ3Xa%3Fe%3Ds5N8L1&sa=D&sntz=1&usg=AOvVaw0s23upLmTC0Gay2aaHBDDy)
+[Описание проблем](https://disk.yandex.ru/i/nM5woTaq6W9Z1A)
 
 
 В этой работе проанализированы 7 программ/мобильных приложений/онлайн-сервисов для работы с аудио. Добавлено описание основных функции. Также записан аудио-подкаст на тему, связанную с современными проблемами информационной безопасности.
@@ -40,23 +40,22 @@ tags: ["1 курс"]
 Тема 5
 HTML презентация-резюме.
 
-ЛР 5 https://www.google.com/url?q=https%3A%2F%2F1drv.ms%2Fw%2Fs!Aj9eLzWpyS4ohALOkA3zK2p6LN5N%3Fe%3DII3L0a&sa=D&sntz=1&usg=AOvVaw1I6vffGiYpzf_a4AFKN4V7
+[ЛР 5](https://disk.yandex.ru/i/8-CBaHC8eJ7NYA)
 Был создан сайт с презентацией-резюме.
 
 Тема 8, 9, 10
 История развития HTML. Скринкаст.
 
-Выступление https://www.google.com/url?q=https%3A%2F%2F1drv.ms%2Fv%2Fs!Aj9eLzWpyS4ohAZBoV_mXrZbR7Gk%3Fe%3DXMeDB7&sa=D&sntz=1&usg=AOvVaw1HGQSxHTPcfp4VhNv3hohp
+[Выступление](https://disk.yandex.ru/i/5Wb1WJD-klNL2w)
 В данном скринкасте подготовлено выступление по теме второго семестра "История развития HTML". В конце предоставлен qr-код, ведущий на тест из пяти вопросов, на закрепление полученных знаний. Графическая часть создана средствами Prezi.
 
 Тема 11
 Стендовый доклад по теме "История развития HTML".
-ЛР 11 https://www.google.com/url?q=https%3A%2F%2F1drv.ms%2Fb%2Fs!Aj9eLzWpyS4ohA-mphBsycF3xWAI%3Fe%3DSeY6ea&sa=D&sntz=1&usg=AOvVaw3M8DpC9tjAt1J1ZuuGjZgn
+[ЛР 11](https://disk.yandex.ru/i/lC1JFB4YC0AZ6A)
 
 Linux
 Выполнена установка Linux на устройство.
-
-Linux https://www.google.com/url?q=https%3A%2F%2F1drv.ms%2Fw%2Fs!Aj9eLzWpyS4ohBk7AnQOr6N-B_tw%3Fe%3Dr3FbMI&sa=D&sntz=1&usg=AOvVaw2JD4-WvYrJkCFCzdI4xBYy
+[Linux](https://isk.yandex.ru/i/MejE3zBhB-YL5A)
 
 
 
