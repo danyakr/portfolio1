@@ -48,7 +48,18 @@ theme = "minimal-bootstrap-hugo-theme"
   name = "1"
   url = "/1/"
   weight = 4
-
+  [[menu.nav]]
+  name = "2"
+  url = "/2/"
+  weight = 5
+  [[menu.nav]]
+  name = "3"
+  url = "/3/"
+  weight = 6
+  [[menu.nav]]
+  name = "4"
+  url = "/4/"
+  weight = 7
 
 [markup]
   defaultMarkdownHandler = "goldmark"
