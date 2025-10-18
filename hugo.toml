@@ -60,6 +60,14 @@ theme = "minimal-bootstrap-hugo-theme"
   name = "4"
   url = "/4/"
   weight = 7
+  [[menu.nav]]
+  name = "Практики"
+  url = "/practice/"
+  weight = 8
+  [[menu.nav]]
+  name = "Курсовые работы"
+  url = "/kurs/"
+  weight = 9
 
 [markup]
   defaultMarkdownHandler = "goldmark"
